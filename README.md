@@ -1,0 +1,10 @@
+# Segmentation_U-Net_traning
+Segmentation_modelsを使ったU-Netの転移学習コードです
+
+GPUが使えるGoogleColabで使用することを推奨します
+
+- 1.ダウンロードしてtraining-segmentationディレクトリをマイドライブに移動
+
+- 2.traning_segmentation_models.ipynbをそのまま実行できます
+
+オリジナルデータを利用する場合、dataディレクトリ内の各種データを変更してください
